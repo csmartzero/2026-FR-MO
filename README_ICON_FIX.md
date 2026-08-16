@@ -1,1 +1,0 @@
-Icon refresh in progress.
